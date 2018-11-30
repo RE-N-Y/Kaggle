@@ -11,14 +11,19 @@ A colab repository for each project are also hosted on google drive. Please acce
 
 ### Housing data prediciton
 Scored top 20% on kaggle competition
+
 -house: https://drive.google.com/open?id=1KlS1lGVs5xqyixJb_3Q2CZM3qvjH-QUZ
+
 -xgboost-house: https://drive.google.com/open?id=1ptKwBVy3GW8eR7r6IH4gFmgOxZgI_6M0
 
 ### Titantic
 Scored top 10% on kaggle competition
+
 -titanic: https://drive.google.com/open?id=125uIvGVosnVPqMqHVlrbE7sX9AQqM6BP
+
 -xgboost_titanic: https://drive.google.com/open?id=1GPat1uAcu0y678BqXdNSfC8bo0Lb7DIS
 
 ### MNIST
 Scored top 20% on kaggle competition
+
 -mnist: https://drive.google.com/open?id=1Z0OMP9DFhG_WTJQIUqXGTxohzvzgGpPB
